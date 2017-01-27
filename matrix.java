@@ -5,7 +5,7 @@ public class matrix {
 	public static final String ANSI_GREEN = "\u001B[32m";
 
 	public static void main(String args[]) {
-		String[] matrix = new String[120];
+		String[] matrix = new String[190];
 		int[] repeatCheck = new int[matrix.length];
 		String concat = "";
 		String alphabet = "0┏1┐2└3┙4├5┟6┣7┤8┨9┬┴╋╌╍╎╏║╟╠╡╢╣╤╥╦╧╨╩╪╫╝╚╔╗╬ ═╓╩ ┠┨┯┷┏ ┓┗┛┳⊥";
